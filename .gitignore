@@ -3,3 +3,6 @@ venv/
 
 #Ignore Python Caches
 __pycache__/
+
+.pub
+.pub.pub
